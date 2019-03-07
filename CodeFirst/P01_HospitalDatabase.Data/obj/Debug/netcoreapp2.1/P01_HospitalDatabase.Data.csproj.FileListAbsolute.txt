@@ -1,0 +1,6 @@
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.deps.json
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.dll
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.csprojAssemblyReference.cache
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.csproj.CoreCompileInputs.cache
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.AssemblyInfoInputs.cache
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.AssemblyInfo.cs
