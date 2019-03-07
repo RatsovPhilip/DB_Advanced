@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#DB_Fundamentals\\DB_Advanced_EF\\CodeFirst\\CodeFirst\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj",
+      "projectUniqueName": "D:\\C#DB_Fundamentals\\DB_Advanced_EF\\CodeFirst\\CodeFirst\\DB_Advanced\\CodeFirst\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj",
       "projectName": "P01_HospitalDatabase.Data.Models",
-      "projectPath": "D:\\C#DB_Fundamentals\\DB_Advanced_EF\\CodeFirst\\CodeFirst\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj",
+      "projectPath": "D:\\C#DB_Fundamentals\\DB_Advanced_EF\\CodeFirst\\CodeFirst\\DB_Advanced\\CodeFirst\\P01_HospitalDatabase.Data.Models\\P01_HospitalDatabase.Data.Models.csproj",
       "packagesPath": "C:\\Users\\reny_\\.nuget\\packages\\",
-      "outputPath": "D:\\C#DB_Fundamentals\\DB_Advanced_EF\\CodeFirst\\CodeFirst\\P01_HospitalDatabase.Data.Models\\obj\\",
+      "outputPath": "D:\\C#DB_Fundamentals\\DB_Advanced_EF\\CodeFirst\\CodeFirst\\DB_Advanced\\CodeFirst\\P01_HospitalDatabase.Data.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

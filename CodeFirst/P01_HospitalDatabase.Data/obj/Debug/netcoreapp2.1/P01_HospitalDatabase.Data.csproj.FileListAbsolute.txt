@@ -4,3 +4,17 @@ D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\P01_HospitalDatabase.Dat
 D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.csproj.CoreCompileInputs.cache
 D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.AssemblyInfoInputs.cache
 D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.AssemblyInfo.cs
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.deps.json
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.dll
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.pdb
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.csprojAssemblyReference.cache
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.csproj.CoreCompileInputs.cache
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.AssemblyInfoInputs.cache
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.AssemblyInfo.cs
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.dll
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.pdb
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.Models.dll
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.Models.pdb
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.csproj.CopyComplete
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.runtimeconfig.json
+D:\C#DB_Fundamentals\DB_Advanced_EF\CodeFirst\CodeFirst\DB_Advanced\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.1\P01_HospitalDatabase.Data.runtimeconfig.dev.json
