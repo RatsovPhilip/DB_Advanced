@@ -1,0 +1,11 @@
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\netstandard2.0\BillsPaymentSystem.Data.deps.json
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\netstandard2.0\BillsPaymentSystem.Data.dll
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.csprojResolveAssemblyReference.cache
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.csproj.CoreCompileInputs.cache
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.AssemblyInfoInputs.cache
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.AssemblyInfo.cs
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\netstandard2.0\BillsPaymentSystem.Data.pdb
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\netstandard2.0\BillsPaymentSystem.Models.dll
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\bin\Debug\netstandard2.0\BillsPaymentSystem.Models.pdb
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.dll
+F:\VS_Projects\DB_Fundamentals\AdvancedRelations\BillsPaymentSystem\BillsPaymentSystem.Data\obj\Debug\netstandard2.0\BillsPaymentSystem.Data.pdb
